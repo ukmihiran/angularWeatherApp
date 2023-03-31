@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## demo
 
-![demo](https://raw.githubusercontent.com/ukmihiran/Angular-WeatherApp/master/Weather_App_Angular.png)
+![demo](https://raw.githubusercontent.com/ukmihiran/angularWeatherApp/master/Weather_App_Angular.png)
